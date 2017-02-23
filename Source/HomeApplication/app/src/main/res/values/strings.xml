@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Home Application</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="emptyString" />
+    <string name="title_activity_home">Map</string>
+    <string name="emptyStr" />
+</resources>

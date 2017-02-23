@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "164433466623",
+    "firebase_url": "https://voice-recognition-fdf99.firebaseio.com",
+    "project_id": "voice-recognition-fdf99",
+    "storage_bucket": "voice-recognition-fdf99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164433466623:android:7cad977270a81cb0",
+        "android_client_info": {
+          "package_name": "com.example.saimohith.voicerecognizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164433466623-sggd8q3csn1opaleujri40frqb4bsv6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqINKaDAqpMjUU7EoLKe7Xnt2Jj0oCoGc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164433466623:android:da50aae81fe5e60d",
+        "android_client_info": {
+          "package_name": "com.example.saimohith.homeapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164433466623-sggd8q3csn1opaleujri40frqb4bsv6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqINKaDAqpMjUU7EoLKe7Xnt2Jj0oCoGc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
